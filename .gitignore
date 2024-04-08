@@ -79,6 +79,3 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-/CustomControl/UI/Views/TextToggleButton.cs
-/CustomControl/Themes/Views/TextToggleButton.xaml
-/ProbeStation/UI/ViewModels/MainWindowVM.cs
