@@ -13,7 +13,7 @@
                             BorderBrush="{TemplateBinding BorderBrush}"
                             BorderThickness="{TemplateBinding BorderThickness}">
                         <StackPanel>
-                            <TextBlock Text="Friends"
+                            <TextBlock Text="More"
                                        FontSize="24" />
                             <Button Content="Logout" 
                                     Command="{Binding LogoutCommand}"/>
