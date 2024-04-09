@@ -3,5 +3,6 @@
     public enum Regions
     {
         MainRegion,
+        ContentRegion,
     }
 }
