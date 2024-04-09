@@ -5,5 +5,7 @@
         Login,
         Main,
         Friends,
+        Chats,
+        More,
     }
 }

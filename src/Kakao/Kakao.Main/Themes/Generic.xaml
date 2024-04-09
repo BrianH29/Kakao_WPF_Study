@@ -5,6 +5,8 @@
 
 
     <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Kakao.Main;component/Themes/Units/VerticalMenuListItem.xaml"/>
+        <ResourceDictionary Source="/Kakao.Main;component/Themes/Units/VerticalMenuList.xaml"/>
         <ResourceDictionary Source="/Kakao.Main;component/Themes/Views/MainContent.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
